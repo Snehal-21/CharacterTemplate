@@ -1,1 +1,2 @@
 # CharacterTemplate
+<img src=""/>
